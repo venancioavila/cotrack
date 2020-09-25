@@ -1,0 +1,18 @@
+{
+  "name": "cotrack",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "keywords": [
+    "promise",
+    "correios",
+    "rastreio",
+    "rastreios",
+    "tracking",
+    "post office"
+  ],
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
