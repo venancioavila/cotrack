@@ -1,3 +1,3 @@
-const rastreio = require("./common/rastreio");
+const tracking = require("./common/tracking");
 
-module.exports = rastreio;
+module.exports = tracking;

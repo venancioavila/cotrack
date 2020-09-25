@@ -17,7 +17,7 @@ const fetchData = async (code) => {
   return cheerio.load(result.data);
 };
 
-const rastreio = async (code) => {
+const traking = async (code) => {
   const strs = [];
   const ret = [];
 
@@ -57,4 +57,4 @@ const rastreio = async (code) => {
   return refactor;
 };
 
-module.exports = rastreio;
+module.exports = traking;
