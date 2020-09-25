@@ -4,7 +4,7 @@ Cotrack is a JS library for obtaining object tracking information from Brazilian
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install.
 
 ```bash
 npm install cotrack
